@@ -1,0 +1,1 @@
+A simple example of a Solana account getting created with an arbitrary owner.
